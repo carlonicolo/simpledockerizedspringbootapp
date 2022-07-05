@@ -1,0 +1,13 @@
+# Springboot dockerized app
+
+## First version
+1. Installed Java, Maven, Intellij
+2. Installed Docker Desktop (Account in docker hub) - Docker Runtime Engine
+3. Create springboot application
+4. Import to Intellij
+5. Create REST Endpoint
+6. Create Dockerfile
+7. Create docker image
+8. Push docker image to docker hub repository
+9. Pull docker image from docker hub repository
+10. Run the pulled docker image in our local computer
